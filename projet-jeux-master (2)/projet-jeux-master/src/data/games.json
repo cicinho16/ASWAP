@@ -1,0 +1,32 @@
+{
+    "games": [
+        {
+            "gameId": 1,
+            "gameName": "Monopoly",
+            "gameImage": "azeaezae",
+            "price": "2",
+            "userId": 1
+        },
+        {
+            "gameId": 2,
+            "gameName": "Uno",
+            "gameImage": "azeaezae",
+            "price": "2",
+            "userId": 1
+        },
+        {
+            "gameId": 3,
+            "gameName": "Qui est-ce?",
+            "gameImage": "azeaezae",
+            "price": "2",
+            "userId": 2
+        },
+        {
+            "gameId": 4,
+            "gameName": "Triomino",
+            "gameImage": "azeaezae",
+            "price": "2",
+            "userId": 3
+        }
+    ]
+}
